@@ -62,7 +62,7 @@ On the Wireshark tool bar, click **Go** and then click **Go to Packet**. In the 
 In the Expression file, type **imap**, and click the right arrow.
 
 #### :warning: ALERT
-Wireshark is case sensitive. Please ensure you use lower case letters for the protocol name.
+Wireshark is case sensitive. Please ensure you use lowercase letters for the protocol name.
 
 #### :camera: SCREENSHOT
 >LODSProperties
