@@ -21,7 +21,6 @@ Please ensure you click Done as you complete each task in this exercise. When yo
 >* VM = Lab 03 - WIN10
 
 
-
 ### Open capture file in Wireshark
 On the desktop, double-click **rhino.cap**. Wireshark opens and displays the contents of the capture file.
 
